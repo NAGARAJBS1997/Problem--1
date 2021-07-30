@@ -1,0 +1,99 @@
+/* :root {
+    /* background-color: aliceblue;
+    font-size: 62.5%; */
+  /* } */
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;600;800&display=swap');
+  * {
+    box-sizing: border-box;
+    font-family: 'Manrope', sans-serif;
+   
+  }
+ 
+.card{
+    padding: 15px;
+}
+.button1 {
+    background-color: rgb(7, 116, 218);
+    border: none;
+   
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 26px;
+  }
+  .button1:hover {
+    background-color: #5771e2;
+  }
+  .button2 {
+    background-color: rgb(192, 221, 253);
+    border: none;
+    color: rgb(33, 117, 196);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 26px;
+  }
+  .button2:hover {
+    background-color: #0826a8;
+  }
+  .button3 {
+    background-color: rgb(107, 111, 119);
+    border: none;
+    color: rgb(245, 246, 247);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 26px;
+  }
+  .button3:hover {
+    background-color: #b8bac2;
+  }
+  /* .explore{
+      background-color: black;
+  } */
+  .fa-book{
+      color: white;
+      padding: 5px;
+      margin :5px;
+  }
+  .fa-check-circle{
+    color: white;
+    padding: 5px;
+    margin :5px;
+  }
+  .fa-mail-bulk{
+    color: white;
+    padding: 5px;
+    margin :5px;
+  }
+ .fa-telegram-plane{
+    color: white;
+    padding: 2px;
+    margin :2px;
+
+ }
+ .fa-sticky-note{
+    color: rgb(25, 66, 201);
+    padding: 5px;
+    margin :5px;
+ }
+
+ .fa-credit-card{
+    color: rgb(25, 66, 201);
+    padding: 5px;
+    margin :5px;
+
+ }
+ .fa-user-circle{
+    padding: 3px;
+    margin :3px;
+ }
